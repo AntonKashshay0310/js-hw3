@@ -9,6 +9,7 @@ const firstPart = "My";
 const secondPart = "name";
 const thirdPart = "is";
 const fullname = `${firstPart}, ${secondPart}, ${thirdPart} Viktor.`;
+console.log(fullname);
 // 4
 const userName = "Олександро";
 const payment = "300"
