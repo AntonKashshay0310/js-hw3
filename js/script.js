@@ -8,7 +8,7 @@ console.log(`Cимволів:${email.length} Наявність @:${email.includ
 const firstPart = "My";
 const secondPart = "name";
 const thirdPart = "is";
-const fullname = `${firstPart}, ${secondPart}, ${thirdPart} Viktor.`;
+const fullname = `${firstPart} ${secondPart} ${thirdPart} Viktor.`;
 console.log(fullname);
 // 4
 const userName = "Олександро";
